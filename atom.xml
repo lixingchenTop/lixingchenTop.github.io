@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.lixingchen.top</id>
     <title>lxc</title>
-    <updated>2020-12-11T08:20:15.638Z</updated>
+    <updated>2020-12-11T08:26:01.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.lixingchen.top"/>
     <link rel="self" href="https://blog.lixingchen.top/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://blog.lixingchen.top/images/avatar.png</logo>
     <icon>https://blog.lixingchen.top/favicon.ico</icon>
     <rights>All rights reserved 2020, lxc</rights>
+    <entry>
+        <title type="html"><![CDATA[测试读书笔记]]></title>
+        <id>https://blog.lixingchen.top/post/booknote-test/</id>
+        <link href="https://blog.lixingchen.top/post/booknote-test/">
+        </link>
+        <updated>2020-12-11T08:23:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>读书笔记啊</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>读书笔记啊</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
         <id>https://blog.lixingchen.top/post/ce-shi-wen-zhang/</id>
